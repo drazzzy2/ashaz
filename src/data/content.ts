@@ -1,8 +1,8 @@
-import { TeamMember, ServiceType, Statistic, DemoCallBenefit } from '../types';
+import { TeamMember, ServiceType, Statistic, DemoCallBenefit, ContactInfo } from '../types';
 
 export const statistics: Statistic[] = [
-  { label: 'TOTAL REVENUE GENERATED', value: '$63.4 MILLION' },
-  { label: 'TOTAL AD SPEND', value: '$14.7M' },
+  { label: 'TOTAL REVENUE GENERATED', value: '$4 MILLION' },
+  { label: 'TOTAL AD SPEND', value: '$300K' },
   { label: 'CLIENTS HELPED', value: '57' },
   { label: 'SERVICES OFFER', value: '8' },
 ];
@@ -93,3 +93,8 @@ export const demoCallBenefits: DemoCallBenefit[] = [
   { text: 'Guidance on how to onboard at our', highlight: 'increased revenue' },
   { text: 'Strategies to help agencies', highlight: 'maximize their conversion rates' },
 ];
+
+export const contactInfo: ContactInfo = {
+  email: 'chief@ahmedius.com',
+  title: 'Business Email'
+};

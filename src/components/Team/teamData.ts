@@ -12,7 +12,7 @@ export const teamMembers = [
   {
     name: 'Ben Yunus',
     role: 'Co-Founder & Growth Marketing Lead',
-    image: 'https://i.ibb.co/ccxydN4/Full-Size-Render.png',
+    image: 'https://i.ibb.co/bKxtbDT/Full-Size-Render-1-1.png',
     quote: 'Scaling businesses with data-driven growth strategies and proven marketing frameworks.',
     social: {
       twitter: '#',
