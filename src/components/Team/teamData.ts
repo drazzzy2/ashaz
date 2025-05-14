@@ -10,7 +10,7 @@ export const teamMembers = [
     }
   },
   {
-    name: 'Ben Yunus',
+    name: 'Ben Rothschild',
     role: 'Co-Founder & Growth Marketing Lead',
     image: 'https://i.ibb.co/bKxtbDT/Full-Size-Render-1-1.png',
     quote: 'Scaling businesses with data-driven growth strategies and proven marketing frameworks.',
